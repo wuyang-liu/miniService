@@ -3,7 +3,6 @@ package com.wuyangliu.miniservice.controllers;
 import com.wuyangliu.miniservice.model.Restaurant;
 import com.wuyangliu.miniservice.repository.RestaurantRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
